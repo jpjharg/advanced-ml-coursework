@@ -41,7 +41,7 @@ A fully vectorised Monte Carlo simulation of a particle beam decay experiment. A
 
 ## Assignment 2 — Solar Power Forecasting with Deep Learning
 
-**File:** `Assignment_2_code_-_Copy.ipynb`
+**File:** `Assignment_2_code.ipynb`
 
 ### Overview
 A deep learning pipeline for forecasting solar power output from real photovoltaic site data. The project addresses both single-site and generalised multi-site prediction across two time horizons, comparing multiple neural architectures against a naive persistence baseline.
